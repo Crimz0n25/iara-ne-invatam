@@ -1,0 +1,10 @@
+#Compiled binary and exe s
+*.out
+*.o
+main
+
+#Editor swap and backup files
+
+*.swp
+*~
+.vscode/
