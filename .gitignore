@@ -1,7 +1,7 @@
 #Compiled binary and exe s
 *.out
 *.o
-main
+app
 
 #Editor swap and backup files
 
